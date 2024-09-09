@@ -1,0 +1,27 @@
+Topic is operator for interview :->
+
+Q.1.what is operator.
+=>
+.erformed a mathmatical operation
+.operator is a special type symbol it is used operation performed on operand.
+.An operator in Python is a special symbol or keyword that is used to perform operations on variables and values.
+.Operators are the building blocks for performing calculations, comparisons, logical operations, and more in Python code.
+
+Q.2.what are operator in python.
+=>
+1.Arithmetic Operators.
+2.comparisons operators.
+3.logical Operators.
+4.Assignment operators.
+5.Identity operators.
+6.Memberships operators.
+
+what is diff between '==' and ' is' Explain with example.
+=>
+== operator is check the two operands values are equal or not.
+is operator is check the memory location are equal or not return in boolean values.
+
+what is diff between / and // (division and floor division).
+=>
+/ division return values in floating point ex.12.90
+// floor division return values in int integer number ex.12
